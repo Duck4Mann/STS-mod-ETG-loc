@@ -10,3 +10,6 @@ Mod https://github.com/tldyl/demoMod
 В архиве открыть папку eng в localization и заменить на файлы из репозитория
   
   https://www.youtube.com/watch?v=bBMtYdGAk0g Видео инструкция
+  
+  
+  Или просто скачайте проект

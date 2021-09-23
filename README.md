@@ -12,4 +12,4 @@ Mod https://github.com/tldyl/demoMod
   https://www.youtube.com/watch?v=bBMtYdGAk0g Видео инструкция
   
   
-                                                     Или просто скачайте релиз справа ----------------------->
+                                                        Или просто скачайте релиз справа 
